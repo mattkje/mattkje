@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
+### Computer Science Student
 
-<!--
-**mattkje/mattkje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- Programming Languages: Python, Java
+- Web Development: HTML, CSS
+- Databases: MySQL
+- Tools: Git, VSCode, IntelliJ IDEA
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals for 2024
+- Complete a major personal coding project
+- Contribute to open source projects
+- Improve problem-solving skills through competitive programming
+
+## 📫 Get in touch
+- LinkedIn: [Matti Kjellstadli](https://www.linkedin.com/in/matti-kjellstadli-39a0a028a/)
+
