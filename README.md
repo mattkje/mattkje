@@ -2,8 +2,8 @@
 ### Computer Science Student
 
 ## 🔧 Skills
-- Programming Languages: Python, Java
-- Web Development: HTML, CSS
+- Programming Languages: C#, Java, JS, Dart
+- Web Development: Vue.js
 - Databases: MySQL
 - Tools: Git, JetBrains
 
