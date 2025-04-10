@@ -1,12 +1,12 @@
-# Hi there! 👋
-### Computer Science Student
+# 👋 Hi, I'm Matti Kjellstadli  
+### 💻 Computer Science Student | Indie Developer | Tech Enthusiast  
 
-## 🔧 Skills
-- Programming Languages: C#, Java, JS, Dart
-- Web Development: Vue.js
-- Databases: MySQL
-- Tools: Git, JetBrains
+Welcome to my GitHub profile! I'm currently wrapping up my Computer Science degree and love building projects that combine creativity and problem-solving.
 
-## 📫 Get in touch
-- LinkedIn: [Matti Kjellstadli](https://www.linkedin.com/in/matti-kjellstadli-39a0a028a/)
+🌐 **Portfolio:** [mattkje.github.io](https://mattkje.github.io)
 
+---
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn: Matti Kjellstadli](https://www.linkedin.com/in/matti-kjellstadli-39a0a028a/)  
+- ✉️ Feel free to reach out if you'd like to collaborate or just say hi!
