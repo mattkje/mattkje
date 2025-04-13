@@ -3,7 +3,8 @@
 
 Welcome to my GitHub profile! I'm currently wrapping up my Computer Science degree and love building projects that combine creativity and problem-solving.
 
-🌐 **Portfolio:** [mattkje.github.io](https://mattkje.github.io)
+- 💼 **Portfolio:** [mattkje.github.io](https://mattkje.github.io)  
+- 🌐 **Personal Website:** [shelstad.store](https://shelstad.store/)
 
 ---
 
