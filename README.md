@@ -9,5 +9,5 @@ Welcome to my GitHub profile! I'm currently wrapping up my Computer Science degr
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn: Matti Kjellstadli](https://www.linkedin.com/in/matti-kjellstadli-39a0a028a/)  
-- ✉️ Feel free to reach out if you'd like to collaborate or just say hi!
+- 🔗 [LinkedIn: Matti Kjellstadli](https://www.linkedin.com/in/matti-kjellstadli-39a0a028a/)  
+- 💌 Feel free to reach out if you'd like to collaborate or just say hi!
