@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Matti Kjellstadli  
-### 💻 Senior Software Developer | Indie Developer | Tech Enthusiast  
+### 💻 Software Developer | Indie Developer | Tech Enthusiast  
 
 Welcome to my GitHub profile! I’m currently working as a Senior Software Developer at **Solwr Software AS**, and I enjoy creating projects that blend creativity, technology, and user experience — from tools to games.
 
