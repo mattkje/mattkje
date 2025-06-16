@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matti Kjellstadli  
 ### 💻 Software Developer | Indie Developer | Tech Enthusiast  
 
-Welcome to my GitHub profile! I’m currently working as a Senior Software Developer at **Solwr Software AS**, and I enjoy creating projects that blend creativity, technology, and user experience — from tools to games.
+Welcome to my GitHub profile! I’m currently working as a Software Developer at **Solwr Software AS**, and I enjoy creating projects that blend creativity, technology, and user experience — from tools to games.
 
 - 💼 **Portfolio:** [mattkje.github.io](https://mattkje.github.io)  
 - 🌐 **Personal Website:** [shelstad.store](https://shelstad.store/)
