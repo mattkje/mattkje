@@ -5,4 +5,4 @@ Welcome to my GitHub profile! I’m currently working as a Software Developer at
 
 I enjoy building full-stack websites, combining both design and development to bring my ideas to life.
 
-- 🌐 **Personal Website:** [shelstad.store](https://shelstad.store/)
+- 🌐 **Personal Website:** [mattikjellstadli.com](https://mattikjellstadli.com/)
